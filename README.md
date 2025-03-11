@@ -122,6 +122,7 @@
   * **JOIN:** 사용자와 장비 데이터를 통합하여 상태 확인.
 <br/> </br>
 ## 4.	데이터베이스 스키마 및 다이어그램 (Database schema / Schema diagram)
+![Image](https://github.com/user-attachments/assets/8e3c34a1-7f06-4ea3-8e87-8901632825c0)
 ### 1. user 테이블
 * 기능
   * 사용자의 정보를 관리하기 위한 테이블로, 사용자는 플랫폼에 가입 및 로그인을 통해 자신의 정보를 제공.
